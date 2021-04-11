@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppleTask</string>
+    <string name="first_count_apple">First Count Apple to Box</string>
+    <string name="max_count_apple_to_box">Max count Apple to Box</string>
+    <string name="next">NEXT</string>
+    <string name="count_apple_to_box">The number of apples in the box</string>
+    <string name="add_apples">Add apples</string>
+    <string name="take_apples">Take apples</string>
+    <string name="reset">Reset</string>
+</resources>
